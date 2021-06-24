@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @MrZomka
-- 👀 I’m interested in havng fun.
-- 🌱 I’m currently learning Node.js
-- 📫 How to reach me via email - mr.zomka.lord@yandex.ru
+- 👀 I’m interested in having fun.
+- 🌱 I’m currently learning Node.js and Java
+- 📫 How to reach me via email - zomka@metamc.net
