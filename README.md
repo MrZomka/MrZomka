@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @MrZomka
-- 👀 I’m interested in having fun.
-- 🌱 I’m currently learning Node.js and Java
-- 📫 How to reach me via email - me@zomka.dev
+- 🐧 I’m a Linux enthusiast.
+- ⌨️ I know Java, Python and JavaScript.
+- 📫 How to reach me via email - my email died and no time to fix it, I have a Discord though (Zomka#2284)
