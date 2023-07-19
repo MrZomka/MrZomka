@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @MrZomka
 - 🐧 I’m a Linux enthusiast.
-- ⌨️ I know Java, Python and JavaScript.
-- 📫 How to reach me via email - my email died and no time to fix it, I have a Discord though (Zomka#2284)
+- ⌨️ I know Java, Python, and JavaScript.
+- 📫 How to reach me via email - my email died, and no time to fix it. I have a Matrix though! (zomka@tchncs.de)
