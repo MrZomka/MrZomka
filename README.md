@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MrZomka
-- 🐧 I’m a Linux enthusiast.
+- 👋 Hi, I’m Zomka (she/they)
+- 🐧 I’m a Linux enthusiast and hardware tinkerer.
 - ⌨️ I know Java, Python, and JavaScript.
-- 📫 How to reach me via email - my email died, and no time to fix it. I have a Matrix though! (zomka@tchncs.de)
+- 📫 How to reach me via email - zomka@fard.ing
