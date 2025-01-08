@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Zomka (she/they)
-- 🐧 I’m a Linux enthusiast and hardware tinkerer.
+- 🐧 I’m a game modder, Linux enthusiast and hardware tinkerer.
 - ⌨️ I know Java, Python, and JavaScript.
 - 📫 How to reach me via email - zomka@fard.ing
